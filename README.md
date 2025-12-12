@@ -37,11 +37,17 @@ I enjoy exploring different parts of the tech world at my own pace.
 - FastAPI
 - Database design  
 
-**Frontend (learning)**
+**Frontend **
 - React  
 - Next.js  
 - TailwindCSS
-- GSAP (on progress)
+- GSAP
+  
+**Additional stacks I'm working on/want to learn**
+- C++
+- Laravel
+- C#
+- Game dev
 
 **Environment**
 - Linux (my PC begged me to stop making it run Windows xD)
