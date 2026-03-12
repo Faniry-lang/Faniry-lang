@@ -27,19 +27,19 @@ I enjoy exploring different parts of the tech world at my own pace.
 
 ## 🛠️ Technologies I Use
 **Languages**
-[![My Skills]https://skillicons.dev/icons?i=java,python,js,ts,sql](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,js,ts,sql)](https://skillicons.dev)
 
 **Backend**  
-[![My Skills]https://skillicons.dev/icons?i=spring,flask,fastapi,nodejs,postgres](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,flask,fastapi,nodejs,postgres)](https://skillicons.dev)
 
 **Frontend**
-[![My Skills]https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css)](https://skillicons.dev)
   
 **Additional stacks I'm working on/want to learn**
-[![My Skills]https://skillicons.dev/icons?i=cpp,laravel,cs,godot](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,laravel,cs,godot)](https://skillicons.dev)
 
 **Environment**
-[![My Skills]https://skillicons.dev/icons?i=windows,linux,idea,webstorm,pycharm](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,idea,webstorm,pycharm)](https://skillicons.dev)
 
 
 ---
