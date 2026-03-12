@@ -27,30 +27,19 @@ I enjoy exploring different parts of the tech world at my own pace.
 
 ## 🛠️ Technologies I Use
 **Languages**
-- Java, Python
-- JavaScript / TypeScript  
-- SQL  
+https://skillicons.dev/icons?i=java,python,js,ts, sql
 
 **Backend**  
-- Spring-boot
-- Flask
-- FastAPI
-- Database design  
+https://skillicons.dev/icons?i=spring,flask,fastapi,nodejs,postgres
 
-**Frontend **
-- React  
-- Next.js  
-- TailwindCSS
-- GSAP
+**Frontend**
+https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css
   
 **Additional stacks I'm working on/want to learn**
-- C++
-- Laravel
-- C#
-- Game dev
+https://skillicons.dev/icons?i=cpp,laravel,cs,godot
 
 **Environment**
-- Linux (my PC begged me to stop making it run Windows xD)
+https://skillicons.dev/icons?i=windows,linux,idea,webstorm, pycharm
 
 ---
 
